@@ -5,7 +5,7 @@ how are you?
 
 COMMIT 1 
 
-OTHER COMMIT
+OTHER COMMIT.
 
 COMMIT 334
 
